@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "994317943797",
+    "firebase_url": "https://lab7practice.firebaseio.com",
+    "project_id": "lab7practice",
+    "storage_bucket": "lab7practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994317943797:android:07efed72fd9fa95325d6bc",
+        "android_client_info": {
+          "package_name": "edu.ucsd.cse110.firebaselab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994317943797-oa907onr5nmf0qbglf8iqtohp02d6g9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ucsd.cse110.firebaselab",
+            "certificate_hash": "f3589d86c202d87277d1ffa35d3c086c62d05cf9"
+          }
+        },
+        {
+          "client_id": "994317943797-ne5u0s6fhje8gqmtc31er5gi07jr4ig4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX3PE8OIJouXmzp2cp16xqIZFXcvblgOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994317943797-ne5u0s6fhje8gqmtc31er5gi07jr4ig4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
